@@ -9,6 +9,21 @@ sites:
     url: https://staging.fsbf.link
   - name: Portal [Production]
     url: https://apply.fs-businessforum.com
+  - name: Cloud
+    url: https://cloud.fs-businessforum.com/status.php
+    expectedStatusCodes:
+      - 200
+  - name: Link Shortner
+    url: https://fsbf.link/rest/health
+    __dangerous__body_down_if_text_missing: 'pass'
+  - name: App Connector
+    url: https://rapunzel.fsbusinessforum.de/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: App
+    url: https://app.fs-businessforum.com/
 
 status-website:
   baseUrl: /status
