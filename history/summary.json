@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 5141,
     "timeMonth": 5332,
     "timeYear": 5395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-24": 0
+    }
   },
   {
     "name": "Portal [Staging]",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/apply.fs-businessforum.com.ico",
     "slug": "portal-production",
     "status": "up",
-    "uptime": "90.93%",
+    "uptime": "90.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.93%",
+    "uptimeYear": "90.98%",
     "time": 703,
     "timeDay": 617,
     "timeWeek": 667,
