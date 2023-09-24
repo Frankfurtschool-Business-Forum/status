@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/initiatives.fs.de.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5395,
-    "timeDay": 5123,
-    "timeWeek": 5141,
-    "timeMonth": 5332,
-    "timeYear": 5395,
+    "uptime": "99.97%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 5729,
+    "timeDay": 9979,
+    "timeWeek": 6594,
+    "timeMonth": 5748,
+    "timeYear": 5729,
     "dailyMinutesDown": {
-      "2023-09-24": 0
+      "2023-09-24": 16
     }
   },
   {
