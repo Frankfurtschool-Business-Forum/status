@@ -7,8 +7,14 @@ sites:
     url: https://initiatives.fs.de/fs-bforum/
   - name: Portal [Staging]
     url: https://staging.fsbf.link/api/status
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Portal [Production]
     url: https://apply.fs-businessforum.com/api/status
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Cloud
     url: https://cloud.fs-businessforum.com/status.php
     expectedStatusCodes:
