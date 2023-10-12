@@ -26,8 +26,8 @@
     "slug": "portal-staging",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 636,
@@ -35,9 +35,7 @@
     "timeWeek": 602,
     "timeMonth": 663,
     "timeYear": 636,
-    "dailyMinutesDown": {
-      "2023-10-12": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal [Production]",
@@ -46,8 +44,8 @@
     "slug": "portal-production",
     "status": "up",
     "uptime": "94.12%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.12%",
     "time": 654,
@@ -56,7 +54,6 @@
     "timeMonth": 610,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2023-10-12": 2,
       "2023-08-23": 1144,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
