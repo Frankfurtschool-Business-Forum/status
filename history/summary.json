@@ -4,9 +4,9 @@
     "url": "https://initiatives.fs.de/fs-bforum/",
     "icon": "https://icons.duckduckgo.com/ip3/initiatives.fs.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 4313,
     "timeYear": 5028,
     "dailyMinutesDown": {
+      "2023-10-31": 0,
       "2023-09-24": 16
     }
   },
@@ -43,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/apply.fs-businessforum.com.ico",
     "slug": "portal-production",
     "status": "up",
-    "uptime": "95.63%",
+    "uptime": "95.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.63%",
+    "uptimeYear": "95.64%",
     "time": 679,
     "timeDay": 598,
     "timeWeek": 756,
