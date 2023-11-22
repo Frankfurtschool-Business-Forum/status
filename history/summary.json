@@ -102,9 +102,9 @@
     "url": "https://rapunzel.fsbusinessforum.de/",
     "icon": "https://icons.duckduckgo.com/ip3/rapunzel.fsbusinessforum.de.ico",
     "slug": "app-connector",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,7 +113,9 @@
     "timeWeek": 703,
     "timeMonth": 662,
     "timeYear": 690,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-22": 0
+    }
   },
   {
     "name": "App",
